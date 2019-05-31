@@ -1,4 +1,4 @@
-package java.by.epam.learn.main.unary_operator;
+package java.by.epam.learn.main.part_1_unary_operator;
 
 public class LearnMainUnaryOperator {
     public static void main(String[] args) {

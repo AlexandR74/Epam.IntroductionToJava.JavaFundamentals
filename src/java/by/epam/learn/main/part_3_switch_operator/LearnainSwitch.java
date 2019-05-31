@@ -1,4 +1,4 @@
-package java.by.epam.learn.main.switch_operator;
+package java.by.epam.learn.main.part_3_switch_operator;
 
 public class LearnainSwitch {
     public static void main(String[] args) {

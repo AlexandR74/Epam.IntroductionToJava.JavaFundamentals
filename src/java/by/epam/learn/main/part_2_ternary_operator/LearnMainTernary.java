@@ -1,4 +1,4 @@
-package java.by.epam.learn.main.ternary_operator;
+package java.by.epam.learn.main.part_2_ternary_operator;
 
 
 /* необходимо назначить процент скидки покупателю от купленых товаров
