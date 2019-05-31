@@ -24,7 +24,7 @@ public class LearnainSwitch {
         switch (role) { // role.toLowerCase()
             case "guest":  level = 0;
             break;
-            default: throw new IllegalArgumentException("non-autentic role");
+            default: throw new IllegalArgumentException("non-autentic role = " + role);
             }
             return level;
     }
