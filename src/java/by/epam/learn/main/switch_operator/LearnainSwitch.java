@@ -17,5 +17,15 @@ public class LearnainSwitch {
                     default: // more code 4
 
         }
+
+    }
+    public static int difeneLevel (String role){
+        int level;
+        switch (role) { // role.toLowerCase()
+            case "guest":  level = 0;
+            break;
+            default: throw new IllegalArgumentException("non-autentic role");
+            }
+            return level;
     }
 }
