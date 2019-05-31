@@ -1,11 +1,11 @@
-package java.by.epam.learn.main;
+package java.by.epam.learn.main.ternary_operator;
 
 
 /* необходимо назначить процент скидки покупателю от купленых товаров
  * если количество товара больше 3 то скидка 10%
  * если меньше либо равно 3 то скидки не будет.
  */
-public class LearnMaintTernary {
+public class LearnMainTernary {
     public static void main(String[] args) {
 
 
